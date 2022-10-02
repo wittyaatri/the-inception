@@ -410,6 +410,7 @@ ul.top_infomation li a:hover {
   width: 100%;
   height: 106px;
   padding: 40px 30px;
+  background-color: #111111;
 }
 
 .navigation.navbar {
@@ -1229,7 +1230,7 @@ ul.conta li a {
 .inner_page .header {
   position: inherit;
 }
-.inner_page .header_midil {
+.inner_page {
   background-color: #111111f2;
 }
 .bg_inner_all .titlepage {
