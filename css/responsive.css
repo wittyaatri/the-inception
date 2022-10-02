@@ -101,6 +101,7 @@ File Name: responsive.css
         background-repeat: no-repeat;
         width: 48px;
         float: right;
+
     }
     .d_none,
     ul.top_infomation {
@@ -182,6 +183,7 @@ File Name: responsive.css
         background: url(../images/menu_icon.png);
         background-repeat: no-repeat;
         width: 48px;
+        margin-top: -6px;
     }
     .main_form .send_btnt {
         margin-bottom: 30px;

@@ -469,7 +469,7 @@ ul.email li i {
 /** banner section **/
 
 .full_bg {
-  background: url(../images/banner_bg.jpg);
+  background: url(../images/banner_bg-01.jpeg);
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -1313,5 +1313,22 @@ ul.conta li a {
   color: #676767;
   opacity: 1;
 }
+
+/* */
+
+/*
+.topNav{
+  opacity: 0;
+}
+*/
+@media only screen and (max-width: 575px) {
+  #mainLogo{
+    height: 40px;
+    width: auto;
+    margin-top: 13px;
+  }
+}
+
+
 
 /** end contact **/
