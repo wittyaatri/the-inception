@@ -884,6 +884,7 @@ input[type="radio"]:disabled + .label-text:before {
   padding-top: 80px;
   padding-bottom: 80px;
   background-attachment: fixed;
+  opacity: 0.8;
 }
 
 .about .titlepage h2 {
