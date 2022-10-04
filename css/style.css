@@ -502,6 +502,7 @@ ul.email li i {
   font-weight: bold;
   text-transform: uppercase;
   font-style: italic;
+  font-family:'Times New Roman';
 }
 
 .board h2 {
@@ -511,6 +512,7 @@ ul.email li i {
   font-weight: bold;
   text-transform: uppercase;
   font-style: italic;
+  font-family:'Times New Roman', Times, serif;
 }
 
 .board p {
@@ -745,7 +747,7 @@ input[type="radio"] {
 input[type="radio"] + .label-text:before {
   content: "\f10c";
   font-family: "FontAwesome";
-  speak: none;
+  /* speak: none; */
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -790,7 +792,6 @@ input[type="radio"]:disabled + .label-text:before {
 /** end our_packages **/
 
 /** packages section **/
-
 .packages {
   background: #fff;
   padding-top: 0px;

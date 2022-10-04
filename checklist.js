@@ -25,7 +25,7 @@ $('#add-todo').click(function(){
           var parentItem = $(this).parent();
           parentItem.animate({
             left:"-30%",
-            height:0,
+            height:100,
             opacity:0
           },200);
           setTimeout(function(){ $(parentItem).remove(); }, 1000);
