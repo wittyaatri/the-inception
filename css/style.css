@@ -1332,6 +1332,28 @@ ul.conta li a {
   }
 }
 
+/**/
+
+div .exploreDiv{
+  border: solid 2px #6e6a6a;
+  border-radius: 12px;
+  color: black;
+  text-align: center;
+}
+div .exploreBtn{
+  
+  text-align: center;
+    padding: 12px 0;
+
+}
+
+.exploreRow{
+  margin-top: 102px;
+  padding: 23px;
+  margin-left: -12px;
+}
+
+
 
 
 /** end contact **/
