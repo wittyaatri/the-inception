@@ -1354,6 +1354,11 @@ div .exploreBtn{
 }
 
 
+.exploreTitle{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 40px;
+}
+
 
 
 /** end contact **/
