@@ -39,6 +39,13 @@ html {
   scroll-behavior: smooth;
   overflow-x: hidden;
 }
+.exActiveDiv{
+  background-color: #73bd24;
+}
+
+.exActiveBtn{
+  color:white;
+}
 
 body {
   color: #666666;
@@ -1339,6 +1346,7 @@ div .exploreDiv{
   border-radius: 12px;
   color: black;
   text-align: center;
+  padding: 13px;
 }
 div .exploreBtn{
   
